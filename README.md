@@ -17,7 +17,17 @@ ATLAUNCHER: https://atlauncher.com/
 PRISM LAUNCHER: https://prismlauncher.org/
 
 
-JAVA: https://oca.opensource.oracle.com/gds/GRAALVM_EE_JAVA17_22_3_1/graalvm-ee-java17-windows-amd64-22.3.1.zip
+MEMORY:
+
+Minecraft is very memory dependent. In a lot of cases memory can make the difference between a playable and not playble experience. 
+
+its highly recommended you add at least 2048mb of memory. When adding more memory use intervals of 1024 so if you are looking to add 8gb it would be 1024 x 8. So your memory ammount would be 8192mb. Its suggested that unless absolutely required you use no more than
+10gb. More than that can cause issues in java.
+
+
+
+JAVA: 
+https://oca.opensource.oracle.com/gds/GRAALVM_EE_JAVA17_22_3_1/graalvm-ee-java17-windows-amd64-22.3.1.zip
 
 Java will need to be on the proper version to use the upcoming JVM Arguments. The Java version id suggest is this version of JDK 17. There are other custom java variants, do your own research and make a decision based upon what you need. 
 
