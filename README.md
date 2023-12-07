@@ -59,7 +59,7 @@ JVM ARGUMENTS:
 -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1
 
 
-(Optional)
+(OPTIONAL)
 
 Large Pages: -XX:+UseLargePages -XX:LargePageSizeInBytes=2m
 
@@ -90,7 +90,7 @@ Low Latency: On (Not ultra unless you are using gsync)
 
 
 
-Power Plan:
+POWER PLAN:
 
 Search in windows for Power Plan. You should see a battery icon and an optin that says change power plan. Om that screen there should be a little arrow and when clicked you will see another plan called "Max performance plan" Enable that. That will make a big difference on laptops or older ryzen cpus.
 
@@ -103,9 +103,6 @@ MODS
 
 Id like to be able to link a pack and call it a day but so many mods are split between curseforge and modrinth that at this point it would be easier for me to list them off one by one. These mods listed are compatible with Fabric 1.20.1.
 
-
-
-LIST:
 
 Sodium/Sodium Extra/Reeses Sodium options
 
