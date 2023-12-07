@@ -21,7 +21,7 @@ MEMORY:
 
 Minecraft is very memory dependent. In a lot of cases memory can make the difference between a playable and not playble experience. 
 
-its highly recommended you add at least 2048mb of memory. When adding more memory use intervals of 1024 so if you are looking to add 8gb it would be 1024 x 8. So your memory ammount would be 8192mb. Its suggested that unless absolutely required you use no more than
+its highly recommended you add at least 2048mb of memory. When adding more memory use intervals of 1024 so if you are looking to add 8gb it would be 1024 x 8. So your memory amount would be 8192mb. Its suggested that unless absolutely required you use no more than
 10gb. More than that can cause issues in java.
 
 
